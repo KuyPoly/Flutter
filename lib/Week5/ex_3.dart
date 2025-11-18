@@ -59,7 +59,7 @@ class ProductCard extends StatelessWidget{
                         );
 
     return SizedBox(
-      width: double.infinity, // makes all cards fill same width
+      width: double.infinity, 
       child: Card(
         color: Colors.white,
         child: Padding(
