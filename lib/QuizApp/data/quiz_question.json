@@ -1,0 +1,25 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "title": "Who is the best teacher?",
+      "choices": ["Ronan", "Hongly", "Leangsiv"],
+      "goodChoice": "Ronan",
+      "points": 10
+    },
+    {
+      "id": "q2",
+      "title": "What is the best color?",
+      "choices": ["Blue", "Red", "Green"],
+      "goodChoice": "Blue",
+      "points": 10
+    },
+    {
+      "id": "q3",
+      "title": "What is Flutter?",
+      "choices": ["A bird", "A framework", "A language"],
+      "goodChoice": "A framework",
+      "points": 10
+    }
+  ]
+}

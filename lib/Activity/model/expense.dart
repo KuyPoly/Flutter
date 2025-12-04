@@ -1,5 +1,4 @@
 import 'package:uuid/uuid.dart';
-import 'package:flutter/material.dart';
 
 enum ExpenseType { food, travel, leisure, work }
 

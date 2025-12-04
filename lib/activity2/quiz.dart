@@ -8,7 +8,7 @@ void main(){
         backgroundColor: Colors.grey[300],
         body: Column(
           children: [
-            Container(
+            SizedBox(
               height: 50,
               child: Row(
                 children: [
