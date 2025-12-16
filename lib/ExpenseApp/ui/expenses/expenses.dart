@@ -125,7 +125,7 @@ class ExpenseItem extends StatelessWidget {
                       expense.title,
                       style: TextStyle(fontWeight: FontWeight.bold),
                     ),
-                    Text("${expense.amount.toString()} \$"),
+                    Text("${expense.amount.toString() } \$"),
                   ],
                 ),
                 Spacer(),
